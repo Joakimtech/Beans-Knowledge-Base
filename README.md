@@ -1,5 +1,6 @@
 
 # Bean Pest Management Knowledge Base
+Direct link -   https://beans-knowledge-base.streamlit.app/
 
 A focused Knowledge Representation & Reasoning (KR&R) system for bean pest management. This repository contains a well-documented Jupyter Notebook that implements a formal knowledge base, first-order logic rules, and an interactive advisor to diagnose pests and recommend safe, practical control measures.
 
