@@ -92,10 +92,6 @@ The knowledge base is intentionally modular. Suggested extensions:
 
 Contributions are welcome. Please open issues for suggestions or submit pull requests with small, well-tested changes. Keep changes focused on data additions, rule improvements, or documentation.
 
-## License and academic note
 
-This repository was developed for educational and research purposes. If you reuse code or data, please credit the author and follow standard academic citation practices.
-
----
 
 
